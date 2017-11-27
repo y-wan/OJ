@@ -1,3 +1,3 @@
 # OJ
 
-My scrabbles for different Online Judges.
+My scribbles for different Online Judges.
