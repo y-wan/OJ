@@ -5,7 +5,6 @@ LANG: C++
 */
 /* LANG can be C++11 or C++14 for those more recent releases */
 #include <fstream>
-#include <map>
 #include <set>  // storing pairings of the wormholes
 #include <vector>
 #define MAX 1000000001
